@@ -1,0 +1,9 @@
+node_modules/
+dist/
+hasil/
+insert.js
+script.js
+index.js
+package-lock.json
+package.json
+logo.ico
